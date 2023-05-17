@@ -22,7 +22,7 @@ internal class Program
 
         foreach (var item in results.OrderBy(v => v.Value))
         {
-            Console.WriteLine("{0} {1}", item.Key, item.Value);
+            Console.WriteLine("{0} {1}", item.Key.PadRight(50), item.Value);
         }
     }
 

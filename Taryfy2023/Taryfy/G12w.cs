@@ -14,7 +14,7 @@ namespace Taryfy2023.Taryfy
             this.c = c;
         }
 
-        public string Name => nameof(G12w) + " Oszczędny weekend" + " " + pricelist.Name;
+        public string Name => nameof(G12w) + " Oszczędny weekend " + pricelist.Name;
 
         public Func<Pobor, double> CostPerKwh()
         {

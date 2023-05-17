@@ -9,6 +9,5 @@ Program pomaga oszacować najlepszą taryfę, bazując na danych historycznych
 
 
 # TODO:
-1. Funkcja licząca w taryfie G13 wymaga dopracowania - nie mogłem znaleźć źródła jak to jest liczone.
 1. Należy sprawdzić czy nie została zmieniona oferta na stronie: https://www.tauron.pl/lp/odnowienie
 
